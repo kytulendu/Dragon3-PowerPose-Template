@@ -1,0 +1,31 @@
+<template_suite>
+ <version>2</version>
+ <template_sets>
+  <template_set>
+   <name>Generic</name>
+   <dynamics_file></dynamics_file>
+   <geometries>
+    <name>Dragon</name>
+   </geometries>
+   <default_label>Body</default_label>
+   <templates>
+    <template>
+     <label>Body</label>
+     <file>Body.dsx</file>
+    </template>
+    <template>
+     <label>Head</label>
+     <file>Head.dsx</file>
+    </template>
+    <template>
+     <label>Wings</label>
+     <file>Wings.dsx</file>
+    </template>
+    <template>
+     <label>Talons</label>
+     <file>Talons.dsx</file>
+    </template>
+   </templates>
+  </template_set>
+ </template_sets>
+</template_suite>
