@@ -1,5 +1,7 @@
 # DAZ Dragon 3 PowerPose Template
 
+![Screenshot of DAZ Dragon 3 PowerPose Template](resources/screenshot.png)
+
 I made this during 2020 to quick pose my red dragon character made from [DAZ Dragon 3](https://www.daz3d.com/daz-dragon-3) figure and it's morphs add-ons for use as drawing reference. It have been update and adding more functionality since then.
 
 The template have neck, tail, wings, abdomen, legs, feet, hands and minimal head posing control that work good enough for my use.
